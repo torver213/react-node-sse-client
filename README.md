@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# How to run this project locally
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Run the command `npm install`
 
 ## Available Scripts
 
@@ -26,6 +26,12 @@ Ensure the value of `homepage` in `package.json` matches your domain to host thi
 
 ## Looking for Demo?
 Open [Visit the demo app](https://sse.techfortified.com) to view it in your browser.
+
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ### `npm test`
 
